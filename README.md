@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Jarelin</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Ethical+Hacker;Graphic+Designer;Cybersecurity+Learner" />
+</p>
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dayrelin_63910) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dayrelinb_11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dayrelin618@gmail.com) 
