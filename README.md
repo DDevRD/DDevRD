@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jarelin</h1>
+<h1 align="center">Hi 👋, I'm DDEVRD </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Ethical+Hacker;Graphic+Designer;Cybersecurity+Learner" />
